@@ -7,7 +7,7 @@
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: MiSans, sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 20px;
@@ -35,6 +35,7 @@ h1 {
 }
 
 #recipient, #message, button {
+    font-family: MiSans, sans-serif;
     width: 100%;
     padding: 15px;
     margin-bottom: 15px;
