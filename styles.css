@@ -95,3 +95,25 @@ button:hover {
     font-style: italic;
     color: var(--color-teal);
 }
+
+.tiktok {
+    display: flex;
+    justify-content: center;
+    border: none;
+    outline: none;
+}
+
+#tiktok-icon {
+    color: var(--color-teal);
+    font-size: 35px;
+    cursor: pointer;
+}
+
+#tiktok-icon:hover {
+    color: var(--color-light-orange);
+    transition: color 0.3s ease;
+}
+
+#send-icon {
+    font-size: 16px;
+}
